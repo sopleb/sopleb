@@ -2,19 +2,35 @@
 
 [![Sopleb profile views](https://u8views.com/api/v1/github/profiles/23087067/views/day-week-month-total-count.svg)](https://u8views.com/github/sopleb)
 
+### 🛠️ Technologies
 
-### Technologias
+I have worked with lots of languages. These are just some of them, and some I have an interest in.
 
-I have worked with lots of languages. These are just some of them, and some I have an interest in
+**Languages & Runtimes**
 
-![Rust](https://img.shields.io/badge/-Rust-5c1e0f?style=flat-square&logo=Rust) 
-![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?logo=Go&logoColor=white&style=flat-square) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript) 
-![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript) 
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54&style=flat-square)
+![Rust](https://img.shields.io/badge/-Rust-5c1e0f?style=flat-square&logo=Rust&logoColor=white)
+![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js&logoColor=339933)
+![WebAssembly](https://img.shields.io/badge/-WebAssembly-black?style=flat-square&logo=webassembly&logoColor=654FF0)
 
-![Linux](https://img.shields.io/badge/-Linux-0f331b?style=flat-square&logo=Linux)
-(![ArchLinux](https://img.shields.io/badge/-Arch%20user,%20btw-black?style=flat-square&logo=archlinux))
+**Operating Systems**
+
+![Linux](https://img.shields.io/badge/-Linux-0f331b?style=flat-square&logo=Linux&logoColor=FCC624)
+![Arch](https://img.shields.io/badge/-Arch%20user,%20btw-black?style=flat-square&logo=archlinux&logoColor=1793D1)
+![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white)
 ![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=)
-![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
-![WebAssembly](https://img.shields.io/badge/-WebAssembly-black?style=flat-square&logo=webassembly)
+
+**Databases**
+
+![MariaDB](https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB%20%2F%20NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+### 📊 GitHub Stats
+
+![Sopleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopleb&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopleb&layout=compact&theme=tokyonight)
