@@ -10,10 +10,14 @@ I have worked with lots of languages. These are just some of them, and some I ha
 
 ![Rust](https://img.shields.io/badge/-Rust-5c1e0f?style=flat-square&logo=Rust&logoColor=white)
 ![GoLang](https://img.shields.io/badge/-GoLang-00ADD8?style=flat-square&logo=Go&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![C#](https://img.shields.io/badge/-C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
 ![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js&logoColor=339933)
+![Assembly](https://img.shields.io/badge/-Assembly-525252?style=flat-square)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-black?style=flat-square&logo=webassembly&logoColor=654FF0)
 
 **Operating Systems**
