@@ -15,6 +15,6 @@ I have worked with lots of languages. These are just some of them, and some I ha
 
 ![Linux](https://img.shields.io/badge/-Linux-0f331b?style=flat-square&logo=Linux)
 (![ArchLinux](https://img.shields.io/badge/-Arch%20user,%20btw-black?style=flat-square&logo=archlinux))
-![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=Windows)
+![Windows](https://img.shields.io/badge/-Windows-black?style=flat-square&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0ODc1IDQ4NzUiIGZpbGw9IiNmZmZmZmYiPjxwYXRoIGQ9Ik0wIDBoMjMxMXYyMzEwSDB6bTI1NjQgMGgyMzExdjIzMTBIMjU2NHpNMCAyNTY0aDIzMTF2MjMxMUgwem0yNTY0IDBoMjMxMXYyMzExSDI1NjQiLz48L3N2Zz4=)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![WebAssembly](https://img.shields.io/badge/-WebAssembly-black?style=flat-square&logo=webassembly)
