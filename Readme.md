@@ -2,7 +2,7 @@
 
 [![Sopleb profile views](https://u8views.com/api/v1/github/profiles/23087067/views/day-week-month-total-count.svg)](https://u8views.com/github/sopleb)
 
-### 🛠️ Technologies
+### 🧑‍💻Technologia
 
 I have worked with lots of languages. These are just some of them, and some I have an interest in.
 
