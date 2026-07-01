@@ -36,5 +36,5 @@ I have worked with lots of languages. These are just some of them, and some I ha
 
 ### 📊 GitHub Stats
 
-![Sopleb's GitHub stats](https://github-readme-stats.vercel.app/api?username=sopleb&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sopleb&layout=compact&theme=tokyonight)
+![Sopleb's GitHub stats](https://github-stats-extended.vercel.app/api?username=sopleb&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-stats-extended.vercel.app/api?username=sopleb&layout=compact&theme=tokyonight)
